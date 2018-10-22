@@ -26,6 +26,7 @@ import java.util.Map;
 
 public class SplashActivity extends AppCompatActivity {
 
+    char a;
     private static final int REQUEST_STORAGE = 1;
     private static String[] PERMISSION_STORAGE= {
             Manifest.permission.CAMERA
